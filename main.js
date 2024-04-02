@@ -6,3 +6,4 @@ for(let i=0; i<bototes.length; i++){
     }
         botoes[i].classList.add("ativo);
 }
+}
